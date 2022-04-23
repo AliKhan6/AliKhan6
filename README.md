@@ -7,7 +7,7 @@ I'm a Computer Systems Engineer having expertise of Flutter cross platform and N
 
 You can also **find me. Currently I'm free to contribute from pakistan 💚
 
-[https://www.kindpng.com/picc/m/39-390541_twitter-button-png-image-free-download-searchpng-graphic.png](https://twitter.com/AliAsgh63886007)
+https://www.kindpng.com/picc/m/39-390541_twitter-button-png-image-free-download-searchpng-graphic.png(https://twitter.com/AliAsgh63886007)
 <!--
 **AliKhan6/AliKhan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
