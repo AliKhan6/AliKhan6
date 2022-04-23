@@ -7,7 +7,8 @@ I'm a Computer Systems Engineer having expertise of Flutter cross platform and N
 
 You can also **find me. Currently I'm free to contribute from pakistan 💚
 
-[TWITTER](https://twitter.com/AliAsgh63886007) [FACEBOOK](https://www.facebook.com/profile.php?id=100009950341792) [LINKEDIN](https://www.linkedin.com/in/ali-asghar1999/)
+[TWITTER](https://twitter.com/AliAsgh63886007) | [FACEBOOK](https://www.facebook.com/profile.php?id=100009950341792) | [LINKEDIN](https://www.linkedin.com/in/ali-asghar1999/) | [MEDIUM](https://medium.com/@alikhan988810)
+
 <!--
 **AliKhan6/AliKhan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
