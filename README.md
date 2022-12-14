@@ -3,7 +3,7 @@
 
 Happy to see you there🤩
 
-I'm a Computer Systems Engineer having expertise of Flutter cross platform and Node Js development. Having UI/UX and Graphic designing knowledge with some web designing skills, a Great Tech Enthusiast and also interested in all the cutting-edge modern technologies.
+I'm a Computer Systems Engineer having expertise of Flutter cross platform and Node Js development. Having UI/UX and Graphic designing knowledge with some web designing skills, a Great Tech Enthusiast and interested in all the cutting-edge modern technologies.
 
 ![AliKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliKhan6&show_icons=true&theme=radical)
 
