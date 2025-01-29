@@ -3,7 +3,7 @@
 
 Happy to see you there🤩
 
-I'm a Computer Systems Engineer with expertise in React/Next.js, Flutter (cross-platform), Node.js, and AI integration. I'm a strong communicator and team player with experience leading teams to deliver successful projects. As a passionate tech enthusiast, I stay up-to-date with cutting-edge technologies and love exploring modern innovations.
+I'm a Computer Systems Engineer with expertise in React/Next.js, Flutter & React Native (cross-platform), Node.js, and AI integration. I'm a strong communicator and team player with experience leading teams to deliver successful projects. As a passionate tech enthusiast, I stay up-to-date with cutting-edge technologies and love exploring modern innovations.
 
 ![AliKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliKhan6&show_icons=true&theme=radical)
 
